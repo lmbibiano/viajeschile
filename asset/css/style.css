@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: blanchedalmond;
+}
+
+body{
+    background-color:black;
+}
+nav{
+    background-color: rgb(47, 237, 237) !important;
+}
+
+main section .container{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    
+}
+main h2 {
+    margin-top: 50px;
+}
+
+article{
+    width: 30%;
+    text-align:start;
+}
+
+article header{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(47, 237, 237);
+}
+
+i {
+    margin-bottom: 3px;
+}
+.btn{
+    background-color: rgb(47, 237, 237);
+    border-color: rgb(47, 237, 237);
+    color: blanchedalmond;  
+    font-weight: 700;  
+}
+
+.somos{
+    padding: 8px;
+}
+.card-body{
+    background-color: rgb(47, 237, 237);;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    background-color: rgb(47, 237, 237);;
+    text-decoration: none;
+    font-weight: 700;
+    
+}
+
+footer ul{
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+
+
+footer p{
+    margin-top: 10px;
+}
+    
