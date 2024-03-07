@@ -8,8 +8,14 @@ body{
     background-color:black;
 }
 nav{
-    background-color: rgb(47, 237, 237) !important;
+    width: 100%;
+
 }
+.nav-link{
+    color: #fff;
+    font-weight: 400;
+}
+
 
 main section .container{
     display: flex;
@@ -17,15 +23,21 @@ main section .container{
     align-items: center;
     justify-content: space-evenly;
     margin-top: 50px;
+   
     
 }
 main h2 {
     margin-top: 50px;
+    font-family: Raleway, sans-serif;
+}
+main .container section  p .card-text{
+    font-size: 50px;
+    font-family: roboto;
 }
 
 article{
     width: 30%;
-    text-align:start;
+    text-align: start;
 }
 
 article header{
@@ -42,9 +54,14 @@ i {
 .btn{
     background-color: rgb(47, 237, 237);
     border-color: rgb(47, 237, 237);
-    color: blanchedalmond;  
-    font-weight: 700;  
+    color: #fff;
+    font-weight: 700; 
+    margin-bottom: 15px; 
 }
+.data-bs-title{
+    
+}
+
 
 .somos{
     padding: 8px;
@@ -55,7 +72,7 @@ i {
 
 footer{
     width: 100%;
-    height: 50px;
+    height: 60px;
     display: flex;
     justify-content: space-around;
     align-items: center;
