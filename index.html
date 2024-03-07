@@ -27,7 +27,7 @@
     <!-- fin jquery -->
 
     <!-- fontwaesome -->
-        <script src="https://kit.fontawesome.com/8fe3f64c3b.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/8fe3f64c3b.js" crossorigin="anonymous"></script>
     <!-- fin fontawesome -->
 
     <!-- script js -->
@@ -107,7 +107,11 @@
 
                 <article class=" somos col ">
                     <header>
-                        <i class="fa-solid fa-location-dot  p-1"></i>
+                        <i id="icon" class="fa-brands fa-fly p-1" 
+                        data-bs-toggle="tooltip" data-bs-placement="botton"
+                        data-bs-custom-class="custom-tooltip" 
+                        data-bs-title="<strong>Viajes en Globo !</strong>"
+                        data-bs-html="true"></i>
 
                     </header>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod nisi quidem aut. Obcaecati fugit
@@ -127,13 +131,19 @@
 
                     </p>
                     <header>
-                        <i class="fa-solid fa-location-dot  p-1"></i>
+                        <i id="icon" class="fa-solid fa-mountain-sun p-1" 
+                            data-bs-toggle="tooltip"
+                            data-bs-placement="bottom"
+                            data-bs-custom-class="custom-tooltip"
+                            data-bs-title="<strong>Montañas!</strong>" data-bs-html="true"></i>
 
                     </header>
                 </article>
                 <article class=" somos col">
                     <header>
-                        <i class="fa-solid fa-location-dot  p-1"></i>
+                        <i id="icon" class="fa-solid fa-parachute-box p-1" data-bs-toggle="tooltip"
+                            data-bs-placement="bottom" data-bs-custom-class="custom-tooltip"
+                            data-bs-title="Enviar por <strong>correo!</strong>" data-bs-html="true"></i></i>
 
                     </header>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod nisi quidem aut. Obcaecati fugit
@@ -254,12 +264,12 @@
                                 </div>
 
                                 <div class=" boton text-left ">
-                                    <button type="button" class="btn btn-primary "
-                                    data-bs-toggle="popover" data-bs-placement="right"
-                                    data-bs-custom-class="custom-popover"
-                                                                        data-bs-content="Dejanos saber tu opinion !!">
-                              Enviar
-                            </button>                                </div>
+                                    <button type="button" class="btn btn-primary " data-bs-toggle="popover"
+                                        data-bs-placement="right" data-bs-custom-class="custom-popover"
+                                        data-bs-content="Dejanos saber tu opinion !!">
+                                        Enviar
+                                    </button>
+                                </div>
                             </form>
                         </div>
                     </div>
