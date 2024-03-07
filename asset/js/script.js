@@ -18,10 +18,15 @@ $(function () {
   });
 
 
-  var color = $("#h2");
+  var color = $("h2");
     color.dblclick(function () {
     $(this).css("color", "red");
 
+  });
+
+  $("#card-somos .card-title").click(function () {
+    $(this).next(".card-text").toggle("slow");
+    
   });
 
 });
