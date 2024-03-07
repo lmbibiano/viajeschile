@@ -23,7 +23,7 @@ $(function () {
     $(this).css("color", "red");
 
   });
-
+  console.log($("#card-somos .card-title"))
   $("#card-somos .card-title").click(function () {
     $(this).next(".card-text").toggle("slow");
     
