@@ -14,7 +14,7 @@ Proyectos Destacados
 [Proyecto 1]: https://sanador.cl/  proyecto personal.
 
 [Proyecto 2]: https://lmbibiano.github.io/viajeschile/  
-              Pyecto del grupo de trabajo de desarrollo full stack 
+              Proyecto del grupo de trabajo de desarrollo full stack 
 
 Contacto
 Correo Electrónico:Lmbibianochiel@gmail.com
