@@ -9,11 +9,12 @@ Desarrollador Backend: Tengo experiencia en el desarrollo de aplicaciones web ut
 Conocimientos adicionales: También tengo experiencia en el uso de jQuery para simplificar la manipulación del DOM y mejorar la interactividad de las páginas web. Además, tengo experiencia en el diseño responsivo utilizando Bootstrap para garantizar una experiencia consistente en diferentes dispositivos y tamaños de pantalla.
 
 Educación
-[Tu Educación Formal, si aplica]
+Ing Informatica
 Proyectos Destacados
-[Proyecto 1]: Breve descripción del proyecto y tu contribución.
+[Proyecto 1]: https://sanador.cl/  proyecto personal.
 
-[Proyecto 2]: Breve descripción del proyecto y tu contribución.
+[Proyecto 2]: https://lmbibiano.github.io/viajeschile/  
+              Pyecto del grupo de trabajo de desarrollo full stack 
 
 Contacto
 Correo Electrónico:Lmbibianochiel@gmail.com
